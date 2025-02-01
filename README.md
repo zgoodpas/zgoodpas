@@ -7,5 +7,5 @@ I'm a GIT student at ASU living in California in the Sacramento metro area.
 
   ---
 ### 📈 My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgoodpas)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgoodpas&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgoodpas)](https://github.com/anuraghazra/github-readme-stats)<br>
